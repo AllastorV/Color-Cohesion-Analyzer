@@ -112,7 +112,7 @@ pip install cupy-cuda11x  # For CUDA 11.x
 Click the "🔄 New" button or press `Ctrl+N` to clear current analysis and start fresh.
 
 ### Language Toggle
-Click the "🌐 TR/EN" button to switch between English and Turkish interface.
+Click the "TR/EN" button to switch between English and Turkish interface.
 
 ### Supported Formats
 
@@ -216,16 +216,11 @@ Uses Mini-Batch K-Means clustering in perceptual color space (OKLab by default) 
 
 ## Multi-Language Support
 
-The application supports **English** and **Turkish** languages. Click the language toggle button (🌐) in the toolbar to switch between languages instantly - no restart required.
+The application supports **English** and **Turkish** languages. Click the language toggle button  in the toolbar to switch between languages instantly
 
 ## Contributing
 
 Contributions are welcome! Please read the development guidelines before submitting PRs.
 
-## License
-
-MIT License - See LICENSE file for details.
-
----
-
 **Color Cohesion Analyzer** - Empowering visual storytellers with color intelligence.
+
